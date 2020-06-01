@@ -14,5 +14,7 @@ All states are progressing in reopening, and are moving up the stages and loosen
 Entry 2 (05.31.20)
 
 UPDATES
+This update added data until May 30, and updated the graphs.
 
 THOUGHTS
+As a result of the rallies, protests, and looting going on in SoCal, specifically the Santa Monica protest and Long Beach protest, I think this will lead to an upsurge in COVID-19 cases. It's already observed that LA County and Orange County is increasing in cases incredibly fast because of looser restrictions, like the opening of beaches. Another note— the San Jose area (Santa Clara County) have many rallies and protests going on, with large gatherings of people. Additionally, Cupertino (Santa Clara County) is also organizing protests and there has been looting in Santana Row, Cupertino / San Jose's commercial district, which may lead to an upsurge in COVID-19 cases in NorCal.
