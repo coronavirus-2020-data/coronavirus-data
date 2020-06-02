@@ -25,4 +25,5 @@ UPDATES
 This data now includes graphs comparing the sum of the positive cases of the top 6 counties per state compared to the total tests performed by the state. The purpose of this was to not only see the growth of testing in those states, but to see if the testing is getting more accurate
 
 THOUGHTS
+The overlapping bar graph which compares the State's negative and positive cases does not show that testing is getting more accurate—the positive cases are only a sliver of the entire State's testing that day. However, daily testing is growing, and the positive cases are shrinking, which shows that mass testing is more effective than specific testing.
 
