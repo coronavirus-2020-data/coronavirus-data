@@ -27,3 +27,13 @@ This data now includes graphs comparing the sum of the positive cases of the top
 THOUGHTS
 The overlapping bar graph which compares the State's negative and positive cases does not show that testing is getting more accurate—the positive cases are only a sliver of the entire State's testing that day. However, daily testing is growing, and the positive cases are shrinking, which shows that mass testing is more effective than specific testing.
 
+Entry 4 (06.03.20)
+
+UPDATES
+- Changed overlapping bar graph to compare total state positive cases and negative cases, rather than the top 6 counties positives cases vs the entire state's negative cases. 
+- Updated case count data to June 1 and updated all graphs
+
+THOUGHTS
+I'm interested to see how this data can provide meaning towards publishing a paper, regardless of how detailed/important the paper is. Also, during the summer I want to learn python because of its importance in data science.
+
+
