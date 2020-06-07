@@ -36,4 +36,13 @@ UPDATES
 THOUGHTS
 I'm interested to see how this data can provide meaning towards publishing a paper, regardless of how detailed/important the paper is. Also, during the summer I want to learn python because of its importance in data science.
 
+Entry 5 (06.06.20)
+
+UPDATES
+- Updated all data to Jun-5, as well as their graphs
+- So far, there are comparisons of the increase in case counts per county, negative vs positive tests in the entire state, and increase per top 5 counties per state
+
+THOUGHTS
+I'm going to start working on new deaths cases per county. Also, I've been thinking about how I'm going to write the research paper— I think there should include rough explanation behind the nature of COVID-19, like how it's transmitted, what it does to the body's immune system, why it's different from the flu, etc., and then take a few notable trends and discuss why, per say, this county has more deaths although it has fewer cases. I can then look into the resources available in the nearby hospitals in that county, if it's a rural / city area, if it's relatively poor or rich, etc., and elaborate from there and draw conclusions.
+
 
