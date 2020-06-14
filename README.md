@@ -45,4 +45,13 @@ UPDATES
 THOUGHTS
 I'm going to start working on new deaths cases per county. Also, I've been thinking about how I'm going to write the research paper— I think there should include rough explanation behind the nature of COVID-19, like how it's transmitted, what it does to the body's immune system, why it's different from the flu, etc., and then take a few notable trends and discuss why, per say, this county has more deaths although it has fewer cases. I can then look into the resources available in the nearby hospitals in that county, if it's a rural / city area, if it's relatively poor or rich, etc., and elaborate from there and draw conclusions.
 
+Entry 6 (06.12.20)
+
+UPDATES
+- Changed individual state + cases v. - cases to a sum of them
+- Updated all data & graphs to June 10th
+
+THOUGHTS
+- I want to start a google doc on the timeline of reopening/phases per state. Thus, for example, I see that California's Orange County rescinded the "must wear mask in public" regulation on June 11th, so I would expect a rise in cases shown in my data starting from several days later (will know about specifics when learn more about coronavirus).
+
 
