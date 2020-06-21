@@ -64,4 +64,12 @@ UPDATES
 THOUGHTS
 - Instead of using the states' cumulative cases/deaths for graphs (besides the sum of positive cases v. total tests data set) I'm using the sum for the top 5 counties because I think it'll be easier to narrow down specifics, e.g. number of local hospitals, population, etc. which can be used to explain certain observations (like a state with not many positive cases, but more deaths than those of a state with more positive cases)
 
+Entry 8 (06.21.20)
+
+UPDATES
+- Made graph to compare sum of each state's top 5 counties' daily COVID-19 related deaths
+
+THOUGHTS
+- I want to start making the reopening timeline for each state-- I really hope the data can clearly reflect the timeline, e.g. when Orange County reopened the beaches you can see a jump in cases a couple days/1-2 weeks after. Something that's kind of frustrating is that some data is contradicting, like the total number of cases keeps decreasing each day in a county in New Jersey, though obviously that's not possible, it can be a minimum of 0-- I think it's because it considered the covered patients, but I think it's not smart to combine it
+
 
