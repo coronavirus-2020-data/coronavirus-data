@@ -54,4 +54,14 @@ UPDATES
 THOUGHTS
 - I want to start a google doc on the timeline of reopening/phases per state. Thus, for example, I see that California's Orange County rescinded the "must wear mask in public" regulation on June 11th, so I would expect a rise in cases shown in my data starting from several days later (will know about specifics when learn more about coronavirus).
 
+Entry 7 (06.20.20)
+
+UPDATES
+- Updated all data & graphs to June 17th
+- Made graphs for each county's COVID-19 related deaths per day
+
+
+THOUGHTS
+- Instead of using the states' cumulative cases/deaths for graphs (besides the sum of positive cases v. total tests data set) I'm using the sum for the top 5 counties because I think it'll be easier to narrow down specifics, e.g. number of local hospitals, population, etc. which can be used to explain certain observations (like a state with not many positive cases, but more deaths than those of a state with more positive cases)
+
 
