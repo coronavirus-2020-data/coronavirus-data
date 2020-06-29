@@ -72,4 +72,13 @@ UPDATES
 THOUGHTS
 - I want to start making the reopening timeline for each state-- I really hope the data can clearly reflect the timeline, e.g. when Orange County reopened the beaches you can see a jump in cases a couple days/1-2 weeks after. Something that's kind of frustrating is that some data is contradicting, like the total number of cases keeps decreasing each day in a county in New Jersey, though obviously that's not possible, it can be a minimum of 0-- I think it's because it considered the covered patients, but I think it's not smart to combine it
 
+Entry 9 (06.28.20)
+
+UPDATES
+- Updated everything until June 26th
+- Changed the sum of positive cases v. total tests performed graph into separate bar graphs for each state, without the positive cases (will change to line graph)
+
+THOUGHTS
+- I've made the timelines for NY, NJ, & CA. To be honest I think it'll help, but the specifics won't be super important. I think the important things will be noting when the state/county went on lockdown, when they started reopening. Regarding the metrics of reopening, they're all pretty similar (construction first, retail). Later I want to bar graphs just showcasing the total growth of the new cases & deaths (top 5 states top 6 counties)
+
 
