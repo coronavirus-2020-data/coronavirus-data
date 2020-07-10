@@ -94,3 +94,11 @@ THOGUHTS
 - The data is a little strange on July 4th, which's probably because it was a holiday. On the topic of July 4th, I think 1-2 weeks later from that day, cases will surge because of the barbecues, parties, etc. At parties I don't think most people will wear the masks. Even around my neighborhood, I see a lot of people at houses celebrating together, people at the park, etc.
 - For the sum of daily cases & sum of daily deaths graphs, I chose them to be bar graphs instead of line graphs because I thought the graphs severed a better purpose for visualization rather than to show the growth sum (thought both graphs would show similar trends).
 - Important note: there are blanks in the original data sets where data can be contradicting, human error on my part, etc, so I deleted the values as well for the daily cases calculation (per county). Thus, for the sum of the 5 counties graph per state, there are blanks as well. However, for the bar graphs which just shows the sum of top 6 states top 5 counties, I didn't delete a whole cell if a value was missing, since the scale is much larger, so I don't think a missing subset's cell would impact the value a lot.
+
+Entry 11 (07.09.20)
+
+UPDATES
+- Updated all data + graphs to July 9th
+
+THOUGHTS
+- I'm planning on starting to write the paper tonight, or at least starting research on the nature of COVID-19 (like how long after exposure for the symptoms to appear, how it infects/spreads, etc). I got a rough format of the paper, so I also want to add additional info, like population sizes of the counties, to help the paper.
