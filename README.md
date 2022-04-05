@@ -102,3 +102,4 @@ UPDATES
 
 THOUGHTS
 - I'm planning on starting to write the paper tonight, or at least starting research on the nature of COVID-19 (like how long after exposure for the symptoms to appear, how it infects/spreads, etc). I got a rough format of the paper, so I also want to add additional info, like population sizes of the counties, to help the paper.
+- I am collecting all states vaccine progress data. Together with COVID case data, I hope that we can provide a whole picuture of the COVID-data-vaccine dataset.
